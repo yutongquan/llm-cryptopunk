@@ -25,10 +25,10 @@ In the spring of 2023, I had the privilege of co-authoring a research paper titl
 As a cutting-edge technology, LLM sentiment analysis has not been widely used in various fields, especially social media content related to cryptocurrencies or non-homogeneous tokens. This signature work project expands our understanding of NFT's social media discourse by combining AI large language models with the field of blockchain-based crypto assets. It not only enhances the accuracy of sentiment analysis but also paves the way for the development of domain-specific (crypto asset) sentiment analysis tools based on large language models. In addition, the development of more accurate sentiment analysis tools helps us to more accurately capture the market sentiment of crypto assets, thus providing valuable references for stakeholders. Relevant research data can also contribute to further NFT price forecasts.
 
 ## Table of Contents
-- [Data]()
-- [Code]()
-- [Images]()
-- [Reference]()
+- [Data](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
+- [Code](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
+- [Images](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
+- [Reference](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
 
 ## Data
 
@@ -52,6 +52,19 @@ As a cutting-edge technology, LLM sentiment analysis has not been widely used in
 ## Code
 
 ## Images
+
+**Fig.1: LlaMa2 Sentiment of CryptoPunks-related Tweets (first 200 tweets)**
+![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+
+**Fig.2: LlaMa2 Sentiment Distribution of CryptoPunks-related Tweets (first 200 tweets)**
+![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+
+**Fig.3: VADER Sentiment of CryptoPunks-related Tweets (first 200 tweets)**
+![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+
+**Fig.4: VADER Sentiment Distribution of CryptoPunks-related Tweets (first 200 tweets)**
+![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+
 
 ## References
 **Data Reference:** 
