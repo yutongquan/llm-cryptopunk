@@ -25,10 +25,10 @@ In the spring of 2023, I had the privilege of co-authoring a research paper titl
 As a cutting-edge technology, LLM sentiment analysis has not been widely used in various fields, especially social media content related to cryptocurrencies or non-homogeneous tokens. This signature work project expands our understanding of NFT's social media discourse by combining AI large language models with the field of blockchain-based crypto assets. It not only enhances the accuracy of sentiment analysis but also paves the way for the development of domain-specific (crypto asset) sentiment analysis tools based on large language models. In addition, the development of more accurate sentiment analysis tools helps us to more accurately capture the market sentiment of crypto assets, thus providing valuable references for stakeholders. Relevant research data can also contribute to further NFT price forecasts.
 
 ## Table of Contents
-- [Data](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
-- [Code](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
-- [Images](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
-- [Reference](https://github.com/yutongquan/llm-cryptopunk/edit/main/)
+- [Data](https://github.com/yutongquan/llm-cryptopunk/tree/main?tab=readme-ov-file#data)
+- [Code](https://github.com/yutongquan/llm-cryptopunk/tree/main?tab=readme-ov-file#code)
+- [Images](https://github.com/yutongquan/llm-cryptopunk/tree/main?tab=readme-ov-file#images)
+- [Reference](https://github.com/yutongquan/llm-cryptopunk/tree/main?tab=readme-ov-file#reference)
 
 ## Data
 
