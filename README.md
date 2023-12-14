@@ -53,8 +53,8 @@ As a cutting-edge technology, LLM sentiment analysis has not been widely used in
 
 | **Content** | **URL** |
 |---|---|
-|---|---|
-|---|---|
+|Sentiment analysis using large language model (LlaMa2) |https://github.com/yutongquan/llm-cryptopunk/blob/main/code/LlaMa2_CryptoPunks.ipynb|
+|Sentiment analysis using traditional NLP tool (VADER) |https://github.com/yutongquan/llm-cryptopunk/blob/main/code/VADER_CryptoPunks.ipynb|
 
 ## Images
 
@@ -69,6 +69,8 @@ As a cutting-edge technology, LLM sentiment analysis has not been widely used in
 
 **Fig.4: VADER Sentiment Distribution of CryptoPunks-related Tweets (first 200 tweets)**
 ![fig.4](https://github.com/yutongquan/llm-cryptopunk/blob/main/image/vader-distribution.png)
+
+Based on observations from these four images, we noticed that LlaMa2 tended to judge more neutral emotions than VADER by performing sentiment analysis with both a large language model and a traditional NLP tool on the first 200 tweets related to CryptoPunks. My initial judgment is that this may be influenced by fine-tuning because the current model has not been fine-tuned based on data from the crypto asset-related fields, thus affecting the autonomous judgment of the model. The next step is to select appropriate fine-tuning data sets for the social media discourse of crypto assets and conduct targeted training on the LlaMa2 model, thus obtaining a more accurate sentiment analysis result.
 
 ## References
 **Data Reference:** 
