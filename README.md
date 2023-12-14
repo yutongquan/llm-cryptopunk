@@ -51,20 +51,24 @@ As a cutting-edge technology, LLM sentiment analysis has not been widely used in
 
 ## Code
 
+| **Content** | **URL** |
+|---|---|
+|---|---|
+|---|---|
+
 ## Images
 
 **Fig.1: LlaMa2 Sentiment of CryptoPunks-related Tweets (first 200 tweets)**
-![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+![fig.1](https://github.com/yutongquan/llm-cryptopunk/blob/main/image/llama2-sentiment-graph.png)
 
 **Fig.2: LlaMa2 Sentiment Distribution of CryptoPunks-related Tweets (first 200 tweets)**
-![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+![fig.2](https://github.com/yutongquan/llm-cryptopunk/blob/main/image/llama2-distribution.png)
 
 **Fig.3: VADER Sentiment of CryptoPunks-related Tweets (first 200 tweets)**
-![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+![fig.3](https://github.com/yutongquan/llm-cryptopunk/blob/main/image/vader-sentiment-graph.png)
 
 **Fig.4: VADER Sentiment Distribution of CryptoPunks-related Tweets (first 200 tweets)**
-![fig.1](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
-
+![fig.4](https://github.com/yutongquan/llm-cryptopunk/blob/main/image/vader-distribution.png)
 
 ## References
 **Data Reference:** 
